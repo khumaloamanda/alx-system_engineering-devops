@@ -1,0 +1,3 @@
+#!/bin/bash
+parent_directory=$(dirname "$(pwd)")
+cp -u *.html "$parent_directory"
